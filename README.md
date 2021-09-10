@@ -15,7 +15,7 @@
 - 在  <code>[rewrite_local] </code> 中添加下句重写，并将JP改为想看的国家/地区的2位大写英文简写US（美国）｜KR（韩国）｜UK（英国）｜TW（台湾）
 
 ## 抖音无法观看
-- 在hostname中加上以下代码
+- 在 <code>[mitm]</code> hostname后加上以下代码
 
       -*snssdk.com, -*amemv.com
 
