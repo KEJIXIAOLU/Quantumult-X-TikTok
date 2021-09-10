@@ -17,7 +17,8 @@
 ## 抖音无法观看
 - 在hostname中加上以下代码
 
-      *snssdk.com, -*amemv.com 
+      -*snssdk.com, -*amemv.com
+
     
     
 ### 说明:
